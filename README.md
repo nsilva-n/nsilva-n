@@ -32,7 +32,7 @@ I am **nsilva-n**, a digital voyager navigating the vast oceans of software deve
 *"To understand the machine is to understand the world, for in every loop lies a lesson, in every error, an opportunity."*
 
 - **Curiosity**: The desire to unravel how things work, from the simplest algorithm to the most complex systems.
-- **Craftsmanship**: Writing clean, efficient, and maintainable code is not just a goal—it’s an art.
+- **Craftsmanship**: Writing clean, efficient, and maintainable code is not just a goal - it’s an art.
 - **Collaboration**: Learning from others, sharing insights, and building together is the essence of progress.
 
 ---
@@ -52,7 +52,7 @@ I am **nsilva-n**, a digital voyager navigating the vast oceans of software deve
 
 *"For even the most diligent coder must occasionally step away from the screen, to embrace the fire of life and the rhythm of the world."*
 
-- **The Stage is My Battlefield**: Half my life has been intertwined with music. I’ve stood under the blinding lights, felt the thunder of the crowd, and wielded the power of sound to craft unforgettable moments. From soaring melodies to electrifying chords, music is more than a passion—it’s a part of my soul.
+- **The Stage is My Battlefield**: Half my life has been intertwined with music. I’ve stood under the blinding lights, felt the thunder of the crowd, and wielded the power of sound to craft unforgettable moments. From soaring melodies to electrifying chords, music is more than a passion - it’s a part of my soul.
 - **The Pitch is My Arena**: When I’m not crafting code, I’m crafting plays on the football field. Strategy, resilience, and teamwork define my game, where every match is a battle of wits and will.
 - **The Digital Colosseum is My Playground**: Enter **Rocket League**, where precision meets adrenaline, and every match is a symphony of speed, skill, and chaos. Here, I push the limits of play, chasing glory one goal at a time.
 - **The Tavern is My Sanctuary**: At the end of the day, I find solace in good company, cold drinks, and the laughter of friends. For what is life without those moments that remind us why we live?
